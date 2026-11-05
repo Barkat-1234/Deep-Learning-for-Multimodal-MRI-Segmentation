@@ -1,0 +1,29 @@
+# Core deep learning framework
+torch
+torchvision
+
+# Numerical computing
+numpy
+scipy
+pandas
+
+# Medical image processing
+nibabel
+SimpleITK
+
+# Image processing
+Pillow
+opencv-python
+
+# Visualization
+matplotlib
+
+# Machine learning utilities
+scikit-learn
+
+# Progress monitoring
+tqdm
+
+# Jupyter notebook
+ipykernel
+jupyter
